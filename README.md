@@ -7,4 +7,5 @@
 #### Day 5 : [Determining Perfect fit for your ML Model](https://medium.com/datadriveninvestor/determining-perfect-fit-for-your-ml-model-339459eef670)
 #### Day 6 : [Linear Regression Explained](https://medium.com/towards-artificial-intelligence/linear-regression-explained-f5cc85ae2c5c)
 #### Day 7 : [Logistic Regression Explained](https://towardsdatascience.com/logistic-regression-explained-ef1d816ea85a)
+#### Day 8 : [Gradient Descent Explained](https://towardsdatascience.com/gradient-descent-explained-9b953fc0d2c)
 
