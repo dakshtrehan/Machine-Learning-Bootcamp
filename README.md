@@ -1,6 +1,6 @@
 # Machine-Learning-Bootcamp
 
-Join me at www.dakshtrehan.com
+Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan
 
 #### Day 1 : [What Exactly Machine Learning is?](https://medium.com/@dakshtrehan/what-exactly-machine-learning-is-1746c9d151ed)
 #### Day 2 : [Who uses Machine Learning and Why?](https://medium.com/@dakshtrehan/who-uses-machine-learning-and-why-c729c689dea3)
