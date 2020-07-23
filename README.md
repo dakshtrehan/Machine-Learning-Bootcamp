@@ -10,4 +10,4 @@ Join me at www.dakshtrehan.com
 #### Day 6 : [Linear Regression Explained](https://medium.com/towards-artificial-intelligence/linear-regression-explained-f5cc85ae2c5c)
 #### Day 7 : [Logistic Regression Explained](https://towardsdatascience.com/logistic-regression-explained-ef1d816ea85a)
 #### Day 8 : [Gradient Descent Explained](https://towardsdatascience.com/gradient-descent-explained-9b953fc0d2c)
-
+#### Day 9 : [Parameter Optimization Explained](https://towardsdatascience.com/parameters-optimization-explained-876561853de0)
