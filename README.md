@@ -11,3 +11,4 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan
 #### Day 7 : [Logistic Regression Explained](https://towardsdatascience.com/logistic-regression-explained-ef1d816ea85a)
 #### Day 8 : [Gradient Descent Explained](https://towardsdatascience.com/gradient-descent-explained-9b953fc0d2c)
 #### Day 9 : [Parameter Optimization Explained](https://towardsdatascience.com/parameters-optimization-explained-876561853de0)
+#### Day 10: [Activation Functions Explained](https://medium.com/analytics-vidhya/activation-functions-explained-8690ea7bdec9)
