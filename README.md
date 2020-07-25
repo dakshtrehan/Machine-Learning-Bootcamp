@@ -12,3 +12,4 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 8 : [Gradient Descent Explained](https://towardsdatascience.com/gradient-descent-explained-9b953fc0d2c)
 #### Day 9 : [Parameter Optimization Explained](https://towardsdatascience.com/parameters-optimization-explained-876561853de0)
 #### Day 10: [Activation Functions Explained](https://medium.com/analytics-vidhya/activation-functions-explained-8690ea7bdec9)
+#### Day 11: [Naive Bayes Explained](https://medium.com/swlh/things-you-never-knew-about-naive-bayes-eb84b6ee039a)
