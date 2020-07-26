@@ -13,3 +13,4 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 9 : [Parameter Optimization Explained](https://towardsdatascience.com/parameters-optimization-explained-876561853de0)
 #### Day 10: [Activation Functions Explained](https://medium.com/analytics-vidhya/activation-functions-explained-8690ea7bdec9)
 #### Day 11: [Naive Bayes Explained](https://medium.com/swlh/things-you-never-knew-about-naive-bayes-eb84b6ee039a)
+#### Day 12: [Start-off your ML jouney with K-nearest neighbors!](https://medium.com/towards-artificial-intelligence/start-off-your-ml-journey-with-k-nearest-neighbors-f72a122f428)
