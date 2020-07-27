@@ -14,3 +14,4 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 10: [Activation Functions Explained](https://medium.com/analytics-vidhya/activation-functions-explained-8690ea7bdec9)
 #### Day 11: [Naive Bayes Explained](https://medium.com/swlh/things-you-never-knew-about-naive-bayes-eb84b6ee039a)
 #### Day 12: [Start-off your ML jouney with K-nearest neighbors!](https://medium.com/towards-artificial-intelligence/start-off-your-ml-journey-with-k-nearest-neighbors-f72a122f428)
+#### Day 13: [Clustering: What is it and when to use it?](https://medium.com/towards-artificial-intelligence/clustering-what-it-is-when-to-use-it-a612bbe95881)
