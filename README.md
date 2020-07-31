@@ -18,3 +18,5 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 14: [Supporting the Math behind Support Vector Machine](https://medium.com/towards-artificial-intelligence/supporting-the-math-behind-supporting-vector-machines-d46e94b23b9d)
 #### Day 15: [Why Choose Random Forest and not Decision Trees](https://medium.com/towards-artificial-intelligence/why-choose-random-forest-and-not-decision-trees-a28278daa5d)
 #### Day 16: [Diving Deep into Deep Learning](https://medium.com/towards-artificial-intelligence/diving-deep-into-deep-learning-f34497c18f11)
+#### Day 17: [Convolution Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/convolutional-neural-networks-for-dummies-afd7166cd9e)
+##
