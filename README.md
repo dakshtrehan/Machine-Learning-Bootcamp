@@ -19,4 +19,4 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 15: [Why Choose Random Forest and not Decision Trees](https://medium.com/towards-artificial-intelligence/why-choose-random-forest-and-not-decision-trees-a28278daa5d)
 #### Day 16: [Diving Deep into Deep Learning](https://medium.com/towards-artificial-intelligence/diving-deep-into-deep-learning-f34497c18f11)
 #### Day 17: [Convolution Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/convolutional-neural-networks-for-dummies-afd7166cd9e)
-#### Day 18: 
+#### Day 18: [Recurrent Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/recurrent-neural-networks-for-dummies-8d2c4c725fbe)
