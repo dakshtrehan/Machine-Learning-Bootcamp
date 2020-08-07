@@ -20,3 +20,4 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 16: [Diving Deep into Deep Learning](https://medium.com/towards-artificial-intelligence/diving-deep-into-deep-learning-f34497c18f11)
 #### Day 17: [Convolution Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/convolutional-neural-networks-for-dummies-afd7166cd9e)
 #### Day 18: [Recurrent Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/recurrent-neural-networks-for-dummies-8d2c4c725fbe)
+#### Day 19: [Understanding LSTM's and GRU's](https://medium.com/@dakshtrehan/understanding-lstms-and-gru-s-b69749acaa35)
