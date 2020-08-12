@@ -21,3 +21,5 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### Day 17: [Convolution Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/convolutional-neural-networks-for-dummies-afd7166cd9e)
 #### Day 18: [Recurrent Neural Networks for Dummies](https://medium.com/towards-artificial-intelligence/recurrent-neural-networks-for-dummies-8d2c4c725fbe)
 #### Day 19: [Understanding LSTM's and GRU's](https://medium.com/@dakshtrehan/understanding-lstms-and-gru-s-b69749acaa35)
+#### Day 20: [Decoding Science behind Generative Adversarial Networks]
+#### Day 21: [Reinforcing the science behind Reinforcement Learning]
