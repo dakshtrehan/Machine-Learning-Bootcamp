@@ -35,7 +35,18 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 
 ## Case Studies
  
-#### [KNN]()
-#### [Linear Regression]()
+#### [KNN](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/KNN)
+#### [Linear Regression](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/Linear-Regression)
 #### [Logistic Regression]()
 #### [Locally Weighted Regression]()
+#### [Naive Bayes]()
+#### [K-Means]()
+#### [Hierarchical Clustering]()
+#### [Support Vector Machine]()
+#### [XGBoost]()
+#### [Multilevel Perceptron]()
+#### [ANN]()
+#### [CNN]()
+#### [RNN]()
+#### [LSTM]()
+#### [Encoder-Decoder Model]()
