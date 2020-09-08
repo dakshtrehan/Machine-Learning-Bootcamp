@@ -36,11 +36,11 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 ## Case Studies
  
 #### [KNN](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/KNN)
-#### [Linear Regression](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/Linear-Regression)
-#### [Logistic Regression]()
-#### [Locally Weighted Regression]()
-#### [Naive Bayes]()
-#### [K-Means]()
+#### [Linear Regression](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/Linear%20Regression)
+#### [Logistic Regression](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/Logistic%20Regression)
+#### [Locally Weighted Regression](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/Locally%20Weighted%20Regression)
+#### [Naive Bayes](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/Naive%20Bayes)
+#### [K-Means](https://github.com/dakshtrehan/Machine-Learning-Bootcamp/tree/master/Case-studies/K-means)
 #### [Hierarchical Clustering]()
 #### [Support Vector Machine]()
 #### [XGBoost]()
