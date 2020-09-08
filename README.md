@@ -32,3 +32,10 @@ Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.c
 #### [Detecting COVID-19 using Deep Learning](https://towardsdatascience.com/detecting-covid-19-using-deep-learning-262956b6f981)
 #### [An Insider’s guide to Cartoonization using Machine Learning](https://medium.com/towards-artificial-intelligence/an-insiders-guide-to-cartoonization-using-machine-learning-ce3648adfe8)
 #### [Why are YOU responsible for George Floyd’s murder & Delhi Communal Riots!!](https://medium.com/@dakshtrehan/why-are-you-responsible-for-george-floyds-murder-delhi-communal-riots-4c1edb7acbc5)
+
+## Case Studies
+ 
+#### [KNN]()
+#### [Linear Regression]()
+#### [Logistic Regression]()
+#### [Locally Weighted Regression]()
