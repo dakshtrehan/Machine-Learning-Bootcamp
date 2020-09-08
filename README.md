@@ -58,5 +58,6 @@ For any feedback or suggestion you can contact me at: daksh.trehan@hotmail.com |
 #### - [LSTM](https://github.com/dakshtrehan/AI-Music-Generation)
 #### - [Encoder-Decoder Model](https://github.com/dakshtrehan/Image-Captioning-Bot)
 
-### Kindly :star: the repo, if you found it useful.
-### Resources gathered with ❤ by Daksh Trehan, feel free to fork and contribute more towards the community. 
+##### Kindly :star: the repo, if you found it useful.
+##### Feel free to :fork_and_knife: and contribute more towards the community. 
+##### Resources gathered with ❤ by Daksh Trehan.
