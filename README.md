@@ -2,6 +2,13 @@
 
 Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan/ | www.medium.com/@dakshtrehan
 
+## Motivation
+Machine Learning is the most transformative technology of our time. Whether it’s helping us discover new drugs for major diseases, fighting fraud, generating music, improving supply chain efficiency, the list of applications is truly endless. For us as a community to be able to make valuable contributions to the world, we need to master this technology. This is a call to action, a battle cry, a spark that will light a movement to radically improve the state of humanity.<br> 
+This repository was created with a ray of hope and a call of passion, the target audience is neophytes and curious users in the realm of Artificial Intelligence & Machine Learning. The repo includes all the resources I wrote, gathered and, practiced during my beginner's period.<br>
+You can also find my articles on my [medium profile](www.medium.com/@dakshtrehan) with 100+ followers and 25k+ traffic over all my articles.
+
+For any feedback or suggestion you can contact me at: daksh.trehan@hotmail.com | www.dakshtrehan.com
+
 ## Articles
 
 #### Day 1 : [What Exactly Machine Learning is?](https://medium.com/@dakshtrehan/what-exactly-machine-learning-is-1746c9d151ed)
