@@ -60,4 +60,4 @@ For any feedback or suggestion you can contact me at: daksh.trehan@hotmail.com |
 
 ### Kindly :star: the repo, if you found it useful.
 ### Feel free to :fork_and_knife: and contribute more towards the community. 
-##### Resources gathered with ❤ by Daksh Trehan.
+### Resources gathered with ❤ by Daksh Trehan.
